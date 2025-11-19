@@ -45,7 +45,7 @@
 
 
 
-# 2. Vibe Coding vs Specification-Driven Development
+## 2. Vibe Coding vs Specification-Driven Development
 
 **Qno: 1 Why does Vibe Coding usually create problems after one week?**
 
@@ -56,33 +56,33 @@
 *Ans: Specification-Driven Development fixes those problems  by using clear written specifictions, requirements, features, rules before starting coding. Developers excatly know what to build.* 
 
 
-# 3. Architecture Thinking
+## 3. Architecture Thinking
 
 **Qno : 1 How does architecture-first thinking change the role of a developer in AIDD?**
 
-*Ans : Architecture-first thinking shifts the developer’s role from writing raw code to designing the system, creating clear specifications, and overseeing AI-generated implementations. Developers focus on architecture, decision-making, and quality rather than manual coding.*
+*Ans: With Architecture-first thinking, the developer’s responsiblities change from writing raw code to designing the system, creating clear specifications, and guiding solutions produced by AI. Developers focus on architecture, decision-making, and quality rather than manual coding.*
 
 **Qno: 2 Explain why developers must think in layers and systems instead of raw code.**
 
-*Ans: Thinking in layers and systems lets developers manage complexity, define clear specifications for AI, ensure maintainability, and consider system-level requirements like scalability and security. It enables efficient collaboration with AI and produces modular, reusable, and reliable software.*
+*Ans: By studying layers and system,  developers may manage complexity, provide effeicient  AI specifications, guarantee maintainability. It creates software that is  dependable, modular, and reusable and make working with AI more efficient.*
 
 
 #
 
 
 # 📁 Part B — Practical Task (Screenshot Required)
-Task:
-Using any AI CLI tool, generate a 1-paragraph specification for an email validation function.
-Requirements:
-Must contain “@”
-Must contain a valid domain (e.g., .com, .org)
-Should return clear error messages
+**Task:**
+*Using any AI CLI tool, generate a 1-paragraph specification for an email validation function.*
+**Requirements:**
+*Must contain “@”*
+*Must contain a valid domain (e.g., .com, .org)*
+*Should return clear error messages*
 
 #### CLI prompt:
-*$Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages$*
+$Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages$
 
 #### Output:
-*The email validation function validate_email(email_address: str) -> Tuple[bool, Optional[str]] will accept a single string argument representing an email address and return a tuple containing a boolean indicating validity and an optional string for error messages. The function must ensure the email address contains exactly one "@" symbol separating the local part from the domain. Furthermore, it must verify that the domain contains a valid top-level domain (TLD) consisting of at least two alphabetical characters, preceded by a dot (e.g.,".com", ".org"). If the email address fails any validation rule, the function should return False along with a descriptive error message indicating the specific reason for failure (e.g., "Missing '@' symbol", "Invalid domain format", "Missing top-level domain").*
+$The email validation function validate_email(email_address: str) -> Tuple[bool, Optional[str]] will accept a single string argument representing an email address and return a tuple containing a boolean indicating validity and an optional string for error messages. The function must ensure the email address contains exactly one "@" symbol separating the local part from the domain. Furthermore, it must verify that the domain contains a valid top-level domain (TLD) consisting of at least two alphabetical characters, preceded by a dot (e.g.,".com", ".org"). If the email address fails any validation rule, the function should return False along with a descriptive error message indicating the specific reason for failure (e.g., "Missing '@' symbol", "Invalid domain format", "Missing top-level domain").$
 
 [screenshots](https://github.com/AsfaaKhan/30-days-challanges-of-AIDD-/blob/main/tast-2/screenshots)
 
