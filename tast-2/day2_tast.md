@@ -7,25 +7,40 @@
 *Ans :  By using AI development agents for repetitive tasks helps you grow as a system architect on what truely matters in architecture and design.*
 *Following are the important benfits for using AI development agents:*
 **1. You stop wasting time on setups and practicing architecure**
+
 **2. You learn to communicate with AI by clear specifications like an architect.**
+
 **3. Instead of focusing on typing code , we learn how to  structred** 
+
 **4. By using your guide correct and specific requirments to AI agents we trains the AI.**
+
+
+##
 
 **Qno:2 Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?**
 
 *Ans : The Nine Pillars  consist of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.These are the Nine Pillars of AIDD:*
 
-**1. Pillar 1: AI CLI & Coding Agents**
-**2. Pillar 2: Markdown as Programming Language**
-**3. Pillar 3: MCP Standard (Model Context Protocol)**
-**4. Pillar 4: AI-First IDEs**
-**5. Pillar 5: Linux Universal Dev Environment**
-**6. Pillar 6: Test-Driven Development (TDD)**
-**7. Pillar 7: Specification-Driven Development with SpecKit Plus**
-**8. Pillar 8: Composable Vertical Skills**
-**9. Pillar 9: Universal Cloud Deployment**     
+**Pillar 1: AI CLI & Coding Agents**
+
+**Pillar 2: Markdown as Programming Language**
+
+**Pillar 3: MCP Standard (Model Context Protocol)**
+
+**Pillar 4: AI-First IDEs**
+
+**Pillar 5: Linux Universal Dev Environment**
+
+**Pillar 6: Test-Driven Development (TDD)**
+
+**Pillar 7: Specification-Driven Development with SpecKit Plus**
+
+**Pillar 8: Composable Vertical Skills**
+
+**Pillar 9: Universal Cloud Deployment**     
 
 
+##
 
 ## 2. Vibe Coding vs Specification-Driven Development
 
@@ -36,6 +51,9 @@
 **Qno: 2 How would Specification-Driven Development prevent those problems?**
 
 *Ans: Specification-Driven Development fixes those problems  by using clear written specifictions, requirements, features, rules before starting coding. Developers excatly know what to build.* 
+
+
+##
 
 
 ## 3. Architecture Thinking
