@@ -13,9 +13,8 @@
 
 **Qno:2 Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?**
 
-*Ans : The Nine Pillars  consist of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.*
+*Ans : The Nine Pillars  consist of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.These are the Nine Pillars of AIDD:*
 
-These are the Nine Pillars of AIDD:
 **1. Pillar 1: AI CLI & Coding Agents**
     *These agents runs in the terminal and act like a your coding teammate.*
 
