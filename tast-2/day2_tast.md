@@ -3,6 +3,7 @@
 ## 1. Nine Pillars Understanding
 
 **Qno: 1 Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?**
+
 *Ans :  By using AI development agents for repetitive tasks helps you grow as a system architect on what truely matters in architecture and design.*
 *Following are the important benfits for using AI development agents:*
 **1. You stop wasting time on setups and practicing architecure**
@@ -11,6 +12,7 @@
 **4. By using your guide correct and specific requirments to AI agents we trains the AI.**
 
 **Qno:2 Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Developer?**
+
 *Ans : The Nine Pillars  consist of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.*
 
 These are the Nine Pillars of AIDD:
@@ -47,18 +49,22 @@ These are the Nine Pillars of AIDD:
 # 2. Vibe Coding vs Specification-Driven Development
 
 **Qno: 1 Why does Vibe Coding usually create problems after one week?**
+
 *Ans : Vibe Coding create problems because it is based on mood , not on a strcuture. Developers writes code quickly with the help of AI without any planning, without any specifictions, but within a days  the projects looks messy, confusing  and difficult to understand and headache to debug any error or issue.*
 
 **Qno: 2 How would Specification-Driven Development prevent those problems?**
+
 *Ans: Specification-Driven Development fixes those problems  by using clear written specifictions, requirements, features, rules before starting coding. Developers excatly know what to build.* 
 
 
 # 3. Architecture Thinking
 
 **Qno : 1 How does architecture-first thinking change the role of a developer in AIDD?**
+
 *Ans : Architecture-first thinking shifts the developer’s role from writing raw code to designing the system, creating clear specifications, and overseeing AI-generated implementations. Developers focus on architecture, decision-making, and quality rather than manual coding.*
 
 **Qno: 2 Explain why developers must think in layers and systems instead of raw code.**
+
 *Ans: Thinking in layers and systems lets developers manage complexity, define clear specifications for AI, ensure maintainability, and consider system-level requirements like scalability and security. It enables efficient collaboration with AI and produces modular, reusable, and reliable software.*
 
 
