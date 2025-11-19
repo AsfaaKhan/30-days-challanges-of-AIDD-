@@ -1,24 +1,62 @@
-# **
-📁Part A — Theory (Short Questions)
-**
+# **📁Part A — Theory (Short Questions)**
 
-# 1. Nine Pillars Understanding
+## 1. Nine Pillars Understanding
 
-Qno:1 Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
-better for your growth as a system architect?
-Ans : 
+**Qno: 1 Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
+better for your growth as a system architect?**
+*Ans :  By using AI development agents for repetitive tasks helps you grow as a system architect on what truely matters in architecture and design.
+Following are the important benfits for using AI development agents:
+1. You stop wasting time on setups and practicing architecure
+2. You learn to communicate with AI by clear specifications like an architect.
+3. Instead of focusing on typing code , we learn how to  structred 
+4. By using your guide correct and specific requirments to AI agents we trains the AI.*
 
+**Qno:2 Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped
+Developer?**
+*Ans :  The Nine Pillars  consisit of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.
+M-Shaped Developer means the developer who have skilled in multiple areas like deep thinking, validation, Collaboraions etc.
+These are the Nine Pillars of AIDD:
+1. Pillar 1: AI CLI & Coding Agents
+    Command line AI assistants , these agents runs in the terminal and act like a your coding teammate. 
 
+2. Pillar 2: Markdown as Programming Language
+    You just need to write code in markdown with clear instructions and specifictions because AI read this and convert into code 
 
-Qno:2 $Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped
-Developer.$
-Ans : 
+3. Pillar 3: MCP Standard (Model Context Protocol)
+    MCP is a standard that allows AI models and tools to talk to each other. AI can access database , run commands, use tools, read files or update code safely. 
+
+4. Pillar 4: AI-First IDEs
+    Instead of writing eveyting manually , AI can genrate files , write code, fix bugs , run tests, understand your entire project.
+    It is the collaboartion b/w us and AI.
+
+5. Pillar 5: Linux Universal Dev Environment
+    Biggest heachache in the world of software developmet is AI Agents only works on their machine  but does not work on friend's, client's machine or computer. By Linux universal Dev Environment that ensure thats human and AI agents work in the same setup, eliminte comapatibility  issues, reliable.
+    [Linus Universal Dev Environment](https://github.com/AsfaaKhan/30-days-challanges-of-AIDD-/blob/main/tast-2/screenshots/linux universal dev environment.png)
+
+6. Pillar 6: Test-Driven Development (TDD)
+    We first need to write tests then AI generates code that passess the tests. These tests makes development safer, cleaner, predictable.
+
+7. Pillar 7: Specification-Driven Development with SpecKit Plus
+    We need to write proper clear specifications by using SpecKit plus. By reading this specs AI build code, generates test, creates docs.
+
+8. Pillar 8: Composable Vertical Skills
+    Developers build stacked skills with multiple areas like :
+        Frontend
+        Backend
+        Database
+        AI Agents 
+        DevOps
+        Cloud
+
+9. Pillar 9: Universal Cloud Deployment
+    AI automates full deplyments. AI handles the heavy DevOps work
+
 
 
 # 2. Vibe Coding vs Specification-Driven Development
 
-Qno: 1 Why does Vibe Coding usually create problems after one week?
-Ans : 
+**Qno: 1 Why does Vibe Coding usually create problems after one week?**
+Ans : Vibe Coding create problems because it is based on mood , not on a strcuture.
 
 Qno: 2 How would Specification-Driven Development prevent those problems?
 Ans: 
@@ -42,7 +80,7 @@ Must contain a valid domain (e.g., .com, .org)
 Should return clear error messages
 
 #### CLI prompt:
-*Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages*
+*$Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages$*
 
 #### Output:
 *The email validation function validate_email(email_address: str) -> Tuple[bool, Optional[str]] will accept a single string argument representing an email address and return a tuple containing a boolean indicating validity and an optional string for error messages. The function must ensure the email address contains exactly one "@" symbol separating the local part from the domain. Furthermore, it must verify that the domain contains a valid top-level domain (TLD) consisting of at least two alphabetical characters, preceded by a dot (e.g.,".com", ".org"). If the email address fails any validation rule, the function should return False along with a descriptive error message indicating the specific reason for failure (e.g., "Missing '@' symbol", "Invalid domain format", "Missing top-level domain").*
