@@ -16,32 +16,14 @@
 *Ans : The Nine Pillars  consist of the characteristics of AI Driven Development. These pillars  help a developer to become strong in multiple areas at the same time.These are the Nine Pillars of AIDD:*
 
 **1. Pillar 1: AI CLI & Coding Agents**
-    *These agents runs in the terminal and act like a your coding teammate.*
-
 **2. Pillar 2: Markdown as Programming Language**
-    *You just need to write code in markdown with clear instructions and specifictions because AI read this and convert hem into code.*
-
 **3. Pillar 3: MCP Standard (Model Context Protocol)**
-    *AI can access database , run commands, use tools, read files or update code safely.*
-
 **4. Pillar 4: AI-First IDEs**
-    *Instead of writing eveyting manually , AI can genrate files , write code, fix bugs , run tests, understand your entire project.*
-
 **5. Pillar 5: Linux Universal Dev Environment**
-    *Biggest heachache in the world of software developmet is AI Agents only works on their machine  but does not work on another machine or computer. By Linux universal Dev Environment that ensure thats human and AI agents work consistently across machines.*
-    [Linus Universal Dev Environment](https://github.com/AsfaaKhan/30-days-challanges-of-AIDD-/blob/main/tast-2/screenshots/linux_universal_dev_environment.png)
-
 **6. Pillar 6: Test-Driven Development (TDD)**
-    *We first need to write tests then AI generates code that passess the tests. These tests makes development safer, cleaner, predictable.*
-
 **7. Pillar 7: Specification-Driven Development with SpecKit Plus**
-    *We need to write clear specifications by using SpecKit plus. By reading this specs AI build code, generates test, creates docs.*
-
 **8. Pillar 8: Composable Vertical Skills**
-    *Developers build skills with multiple areas like :Frontend,Backend,Database,AI Agents,DevOps,Cloud*
-
 **9. Pillar 9: Universal Cloud Deployment**     
-    *AI automates full deplyments. AI handles the heavy DevOps work.*
 
 
 
