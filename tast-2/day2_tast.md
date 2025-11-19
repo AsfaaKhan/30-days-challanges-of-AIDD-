@@ -41,19 +41,20 @@ Must contain “@”
 Must contain a valid domain (e.g., .com, .org)
 Should return clear error messages
 
-CLI prompt:
-Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages 
+#### CLI prompt:
+*Generate a 1-paragraph specifiction for an email validation function. Requirements : Must Contain @ , Must Conatin a valid domain (e.g,.com,.org) , Should return clear error messages*
 
-Output:
-The email validation function validate_email(email_address: str) -> Tuple[bool, Optional[str]] will accept a single string argument representing an email address and return a tuple containing a boolean indicating validity and an optional string for error messages. The function must ensure the email address contains exactly one "@" symbol separating the local part from the domain. Furthermore, it must verify that the domain contains a valid top-level domain (TLD) consisting of at least two alphabetical characters, preceded by a dot (e.g.,".com", ".org"). If the email address fails any validation rule, the function should return False along with a descriptive error message indicating the specific reason for failure (e.g., "Missing '@' symbol", "Invalid domain format", "Missing top-level domain"). 
+#### Output:
+*The email validation function validate_email(email_address: str) -> Tuple[bool, Optional[str]] will accept a single string argument representing an email address and return a tuple containing a boolean indicating validity and an optional string for error messages. The function must ensure the email address contains exactly one "@" symbol separating the local part from the domain. Furthermore, it must verify that the domain contains a valid top-level domain (TLD) consisting of at least two alphabetical characters, preceded by a dot (e.g.,".com", ".org"). If the email address fails any validation rule, the function should return False along with a descriptive error message indicating the specific reason for failure (e.g., "Missing '@' symbol", "Invalid domain format", "Missing top-level domain").*
 
-[screenshots](https://)
-
-
+[screenshots](https://task-2/screenshots)
 
 
 
-📁Part C — Multiple Choice Questions
+
+
+
+# 📁Part C — Multiple Choice Questions
 1. What is the main purpose of Spec-Driven Development? (Option 🅱️: ✅)
 A. Make coding faster
 B. Clear requirements before coding begins ✅
