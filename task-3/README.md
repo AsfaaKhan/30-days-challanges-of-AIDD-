@@ -14,9 +14,9 @@
 
 **Qno:4. Name any two developer tools introduced with Gemini 3.0.**
 
-*Ans:  1. Google Antigravity*
+*1. Google Antigravity*
 
-      *2. Gemini CLI*  
+*2. Gemini CLI*  
 
 #
 
