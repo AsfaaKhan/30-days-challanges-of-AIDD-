@@ -24,7 +24,7 @@ Generate a token with:
 [SCREENSHOT: ](https://github.com/AsfaaKhan/30-days-challanges-of-AIDD-/blob/main/task-6/screenshots/github_mcp_token.jpeg)
 
 
-🔹 Step 3 - Configure Gemini to Use GitHub MCP Server
+## 🔹 Step 3 - Configure Gemini to Use GitHub MCP Server
 
 [SCREENSHOT: ](https://github.com/AsfaaKhan/30-days-challanges-of-AIDD-/blob/main/task-6/screenshots/setting.json.png)
 
