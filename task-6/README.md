@@ -1,12 +1,9 @@
 🎯 Task Objective
-Students will connect GitHub MCP Server with the Google Gemini CLI using the Hosted
+Connect GitHub MCP Server with the Google Gemini CLI using the Hosted
 (Remote) MCP Server.
 
 This method does not require Docker or MCP installation - it's the simplest method.
 After completing this task, AI will be able to read repositories and interact with GitHub.
-
-
-📌 Steps to Complete Task 6 (Easy Method)
 
 
 🔹 Step 1 - Create Your GitHub Personal Access Token (PAT)
