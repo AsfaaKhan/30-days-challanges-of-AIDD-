@@ -2,7 +2,6 @@
 
 ## ✅ What is Spec-Kit Plus?
 
-##
 
 **Spec-kit Plus is a framework / methodology for software development.**
 
@@ -20,29 +19,29 @@
 
 ##
 
-### Capturing Thoughts by Spec-kit plus:
+### Capturing Thoughts by Spec-kit plus ✍⌚:
 
 ## 
 
 **There are Five standard workflow documents to capture your thoughts by using spec-kit plus.**
 
-- *Consitutuion* 
+- *📜 Consitutuion* 
     
     **It is a team Global Rule. It list the most important rules that both me and my AI partner ***must*** follow no matter what.**
 
-- *Specification*
+- *📝 Specification*
     
     **In this stage, you translate your ideas into crystal-clear requirments. You write clear , testable specifications what features you want to include in this project.**
 
-- *Planning*
+- *🧠 Planning*
 
     **In this step, decide and design architechure and choose technology .** 
 
-- *Tasks*
+- *📑 Tasks*
 
     **Break your plan into small chucks .**
 
-- *Implementations*
+- *🏅💻 Implementations*
 
     **Get AI (or yourself) to write the code, according to constitution, specifications, planning, and tasks.**
 
