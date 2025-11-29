@@ -1,4 +1,8 @@
+##
+
 ## ✅ What is Spec-Kit Plus?
+
+##
 
 **Spec-kit Plus is a framework / methodology for software development.**
 
@@ -14,8 +18,11 @@
 
 - *Biggest problem, we faced without spec-kit plus is that we start coding immediately without any planning, then fix problems, later rewrite code again & again.  AAhhh!!!! messss 😫*
 
+##
 
 ### Capturing Thoughts by Spec-kit plus:
+
+## 
 
 **There are Five standard workflow documents to capture your thoughts by using spec-kit plus.**
 
