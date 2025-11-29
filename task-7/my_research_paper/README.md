@@ -2,7 +2,7 @@
 
 **Spec-kit Plus is a framework / methodology for software development.**
 
-- *It is not a programming language or a library.*
+- *It is neither a programming language or nor a  library.*
 
 - *Spec-kit Plus is step-by-step method for building software.*
 
@@ -12,20 +12,20 @@
 
 - *Its remove guessing and vibe coding.*
 
-- *Biggest problem of the spec-kit plus is the we  start coding immediately without any planning, then fix problems later,  then rewrite code  AAhhh!!!! messss 😫*
+- *Biggest problem, we faced without spec-kit plus is that we start coding immediately without any planning, then fix problems, later rewrite code again & again.  AAhhh!!!! messss 😫*
 
 
-### Capturing Thinking
+### Capturing Thoughts by Spec-kit plus:
 
-**Five standard Workflow documents for capturing thinking  .**
+**There are Five standard workflow documents to capture your thoughts by using spec-kit plus.**
 
 - *Consitutuion* 
     
-    **It is a team Global Rule. It list the most important rules thatt both me and my AI companion ***must*** follow no matter what.**
+    **It is a team Global Rule. It list the most important rules that both me and my AI partner ***must*** follow no matter what.**
 
 - *Specification*
     
-    **In this step, you translate your ideas into crystal-clear requirments. You write clear , testable specifications what features you want to include in this project.**
+    **In this stage, you translate your ideas into crystal-clear requirments. You write clear , testable specifications what features you want to include in this project.**
 
 - *Planning*
 
